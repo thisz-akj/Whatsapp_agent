@@ -2,6 +2,20 @@
 
 The WhatsApp AI Support Agent is a powerful, automated customer support system built using FastAPI, LangGraph, and Ngrok. This agent is designed to provide quick and intelligent responses to customer queries over WhatsApp, enhancing customer service while reducing the need for human intervention. By integrating LangGraph, the agent is capable of understanding and responding to a variety of inquiries, from FAQs to more specific customer issues.
 
+## Key Features:
+AI-powered Customer Support: Powered by LangGraph, the AI agent understands customer queries and provides context-aware, accurate responses.
+
+WhatsApp Integration: Built using the WhatsApp Business API, the agent can handle WhatsApp messages seamlessly, making it easy for customers to communicate via their preferred platform.
+
+Real-time Communication: Using FastAPI and Ngrok, the agent handles real-time communication by exposing the local server to the internet.
+
+Scalable Architecture: The system is built to be easily scalable, allowing you to add more functionality, integrate with third-party services, and expand the capabilities of your support bot as your business grows.
+
+Seamless Setup: The setup process is straightforward, with clear instructions for configuring API credentials and running the application locally or in production environments.
+
+Customizable Responses: Easily configurable with custom training data, allowing you to tailor responses for specific business needs or industries.
+
+
 ## Prerequisites
 
 - Python 3.11+
