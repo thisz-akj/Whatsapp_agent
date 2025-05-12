@@ -1,23 +1,10 @@
 # WhatsApp Customer Support Agent
 
-This repository contains a WhatsApp customer support agent built with FastAPI.
-
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-  - [Install uv](#install-uv)
-  - [Create Virtual Environment](#create-virtual-environment)
-  - [Install Dependencies](#install-dependencies)
-- [Configuration](#configuration)
-- [Running the Application](#running-the-application)
-  - [Start the FastAPI Server](#start-the-fastapi-server)
-  - [Set Up Tunneling with Ngrok](#set-up-tunneling-with-ngrok)
-- [Usage](#usage)
+The WhatsApp AI Support Agent is a powerful, automated customer support system built using FastAPI, LangGraph, and Ngrok. This agent is designed to provide quick and intelligent responses to customer queries over WhatsApp, enhancing customer service while reducing the need for human intervention. By integrating LangGraph, the agent is capable of understanding and responding to a variety of inquiries, from FAQs to more specific customer issues.
 
 ## Prerequisites
 
-- Python 3.9+
+- Python 3.11+
 - Ngrok account (for tunneling)
 
 ### Install Ngrok
