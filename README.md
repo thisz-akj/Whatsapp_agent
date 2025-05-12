@@ -34,6 +34,17 @@ This repository contains a WhatsApp customer support agent built using **FastAPI
 
 --Requirements.txt
 
+# Project Structure
+
+whatsapp-support-bot/
+├── api/
+│   └── app.py
+├── .env.example
+├── README.md
+├── requirements.txt
+└── main.py
+
+
 
 
 
